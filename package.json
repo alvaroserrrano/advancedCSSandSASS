@@ -1,0 +1,22 @@
+{
+  "name": "advancedcssandsass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/test.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvaroserrrano/advancedCSSandSASS.git"
+  },
+  "author": "Alvaro Serrano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvaroserrrano/advancedCSSandSASS/issues"
+  },
+  "homepage": "https://github.com/alvaroserrrano/advancedCSSandSASS#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
